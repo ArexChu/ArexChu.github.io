@@ -2,11 +2,11 @@
 title: Arex's Blog
 SEOTitle: Arex's Blog
 header-img: img/home-bg.jpg
-email: arexchu@gmail.com
+email: arexchu9@gmail.com
 description: "Arex"
 keyword: "Arex"
 url: "https://arexchu.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/ecust"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
